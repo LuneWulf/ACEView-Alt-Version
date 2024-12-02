@@ -53,7 +53,9 @@ while {player getVariable ["ace_isUnconscious", false]} do
 		_timer = format ["Death in:		%1:%2		Min:Sec", _min, _sec];
 		ctrlSetText [577, _timer];
 	};
-	
+
+
+	// Havnt changed anything here.
 	if (_debugmode) then {
 		diag_log " - DEBUG LOG - " ;
 		private _debug_1 = (player GetVariable "kat_airway_obstruction");
