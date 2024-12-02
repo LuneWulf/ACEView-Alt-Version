@@ -28,6 +28,7 @@ ctrlEnable [573, false];
 ctrlEnable [574, false];
 ctrlEnable [575, false];
 ctrlEnable [576, false];
+ctrlEnable [577, false];
 
 ctrlShow [550, false];
 ctrlShow [551, false];
@@ -40,4 +41,5 @@ ctrlShow [573, false];
 ctrlShow [574, false];
 ctrlShow [575, false];
 ctrlShow [576, false];
+ctrlShow [577, false];
 
