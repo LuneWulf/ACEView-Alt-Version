@@ -1,0 +1,5 @@
+#include "BIS_AddonInfo.hpp"
+#include "configs\CfgPatches.hpp"
+#include "configs\CfgFunctions.hpp"
+#include "configs\CfgEventHandlers.hpp"
+#include "ModDescription\master.hpp"

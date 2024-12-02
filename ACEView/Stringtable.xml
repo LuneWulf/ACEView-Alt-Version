@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="spc_stringtable">
+	<Package name="spc_stringtable_package">
+		<Container name="HUD_STRINGS">
+			<Key ID="STR_spc_hud_health">
+				<Original>Health Status</Original>
+				<English>Health Status</English>
+				<Czech>Zdravotní stav</Czech>
+				<French>Moniteur de santé</French>
+				<German>Gesundheitszustand</German>
+				<Italian>Stato di salute</Italian>
+				<Polish>Stan zdrowia</Polish>
+				<Portuguese>condição de saúde</Portuguese>
+				<Russian>состояние здоровья</Russian>
+				<Spanish>Estado de salud</Spanish>
+				<Korean>건강</Korean>
+				<Japanese>ヘルス</Japanese>
+				<Chinesesimp>卫生</Chinesesimp>
+				<Chinese>衛生</Chinese>
+			</Key>
+			<Key ID="STR_spc_hud_spectator">
+				<Original>Spectator</Original>
+				<English>Spectator</English>
+				<Czech>divák</Czech>
+				<French>spectateur</French>
+				<German>Zuschauen</German>
+				<Italian>spettatore</Italian>
+				<Polish>oglądać</Polish>
+				<Portuguese>Olhar</Portuguese>
+				<Russian>зритель</Russian>
+				<Spanish>espectador</Spanish>
+				<Korean>관전하다</Korean>
+				<Japanese>観戦する</Japanese>
+				<Chinesesimp>旁观</Chinesesimp>
+				<Chinese>旁觀</Chinese>
+			</Key>
+			<Key ID="STR_spc_hud_map">
+				<Original>Map</Original>
+				<English>Map</English>
+				<Czech>mapa</Czech>
+				<French>carte</French>
+				<German>Landkarte</German>
+				<Italian>carta geografica</Italian>
+				<Polish>mapa</Polish>
+				<Portuguese>mapa</Portuguese>
+				<Russian>карта</Russian>
+				<Spanish>mapa</Spanish>
+				<Korean>지도</Korean>
+				<Japanese>マップ</Japanese>
+				<Chinesesimp>地图</Chinesesimp>
+				<Chinese>地圖</Chinese>
+			</Key>
+			<Key ID="STR_spc_hud_nosignal">
+				<Original>Nearest Ally Is Too Far Away!</Original>
+				<English>Nearest Ally Is Too Far Away!</English>
+				<Czech>Nejbližší spojenec je příliš daleko!</Czech>
+				<French>L'allié le plus proche est trop loin !</French>
+				<German>Der nächste Verbündete ist zu weit weg!</German>
+				<Italian>L'alleato più vicino è troppo lontano!</Italian>
+				<Polish>Najbliższy sojusznik jest za daleko!</Polish>
+				<Portuguese>O aliado mais próximo está muito longe!</Portuguese>
+				<Russian>Ближайший союзник слишком далеко!</Russian>
+				<Spanish>¡El aliado más cercano está demasiado lejos!</Spanish>
+				<Korean>가장 가까운 아군이 너무 멀리 있습니다!</Korean>
+				<Japanese>一番近い味方が遠すぎます!</Japanese>
+				<Chinesesimp>最近的盟友太远了！</Chinesesimp>
+				<Chinese>最近的盟友距離太遠了！</Chinese>
+			</Key>
+			<Key ID="STR_spc_hud_noally">
+				<Original>No conscious allies nearby!</Original>
+				<English>No conscious allies nearby!</English>
+				<Czech>Žádní vědomí spojenci poblíž!</Czech>
+				<French>Aucun allié conscient à proximité !</French>
+				<German>Keine bewussten Verbündeten in der Nähe!</German>
+				<Italian>Nessun alleato cosciente nelle vicinanze!</Italian>
+				<Polish>Żadnych świadomych sojuszników w pobliżu!</Polish>
+				<Portuguese>Nenhum aliado consciente por perto!</Portuguese>
+				<Russian>Никаких сознательных союзников поблизости!</Russian>
+				<Spanish>¡No hay aliados conscientes cerca!</Spanish>
+				<Korean>근처에 의식적인 동맹이 없습니다!</Korean>
+				<Japanese>近くに意識のある味方はいません!</Japanese>
+				<Chinesesimp>附近没有有意识的盟友！</Chinesesimp>
+				<Chinese>附近沒有有意識的盟友！</Chinese>
+			</Key>
+			<Key ID="STR_spc_hud_formatted_nearby">
+				<Original>The nearest unit: %1 is %2 meters away.</Original>
+				<English>The nearest unit: %1 is %2 meters away.</English>
+				<Czech>Nejbližší jednotka: %1 je vzdálená %2 metrů.</Czech>
+				<French>L'unité la plus proche : %1 est à %2 mètres.</French>
+				<German>Die nächste Einheit: %1 ist %2 Meter entfernt.</German>
+				<Italian>L'unità più vicina: %1 è a %2 metri di distanza.</Italian>
+				<Polish>Najbliższa jednostka: %1 znajduje się w odległości %2 metrów.</Polish>
+				<Portuguese>A unidade mais próxima: %1 fica a %2 metros de distância.</Portuguese>
+				<Russian>Ближайший блок: %1 находится в %2 метрах.</Russian>
+				<Spanish>La unidad más cercana: %1 está a %2 metros.</Spanish>
+				<Korean>가장 가까운 부대인 %1는 %2m 떨어져 있습니다.</Korean>
+				<Japanese>最寄りのユニット「%1」は%2メートル離れています。</Japanese>
+				<Chinesesimp>最近单位：%1，%2米远。</Chinesesimp>
+				<Chinese>最近的單位：%1 距離 %2 公尺。</Chinese>
+			</Key>
+		</Container>
+		<Container name="CONFIG_MENU_STRINGS">
+			<Key ID="STR_spc_menu_toggle_med1">
+				<Original>Enable Medical Tab</Original>
+				<English>Enable Medical Tab</English>
+				<Czech>Povolit kartu Lékařská</Czech>
+				<French>Activer l'onglet Médical</French>
+				<German>Registerkarte „Medizinisch“ aktivieren</German>
+				<Italian>Abilita la scheda medica</Italian>
+				<Polish>Włącz zakładkę Medyczna</Polish>
+				<Portuguese>Habilitar aba médica</Portuguese>
+				<Russian>Включить вкладку «Медицина»</Russian>
+				<Spanish>Habilitar pestaña médica</Spanish>
+				<Korean>의료 탭 활성화</Korean>
+				<Japanese>医療タブを有効にする</Japanese>
+				<Chinesesimp>启用医疗标签</Chinesesimp>
+				<Chinese>啟用醫療選項卡</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle_med2">
+				<Original>Shows medical status.</Original>
+				<English>Shows medical status.</English>
+				<Czech>Ukazuje zdravotní stav.</Czech>
+				<French>Affiche l'état médical.</French>
+				<German>Zeigt den medizinischen Status.</German>
+				<Italian>Mostra lo stato di salute.</Italian>
+				<Polish>Pokazuje stan zdrowia.</Polish>
+				<Portuguese>Mostra o estado médico.</Portuguese>
+				<Russian>Показывает медицинский статус.</Russian>
+				<Spanish>Muestra el estado médico.</Spanish>
+				<Korean>건강 상태를 보여줍니다.</Korean>
+				<Japanese>医療状態を表示します。</Japanese>
+				<Chinesesimp>显示医疗状况。</Chinesesimp>
+				<Chinese>顯示醫療狀況。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle_spectator1">
+				<Original>Enable Spectator Tab</Original>
+				<English>Enable Spectator Tab</English>
+				<Czech>Povolit kartu diváků</Czech>
+				<French>Activer l'onglet spectateur</French>
+				<German>Registerkarte „Zuschauer“ aktivieren</German>
+				<Italian>Abilita la scheda spettatore</Italian>
+				<Polish>Włącz zakładkę widza</Polish>
+				<Portuguese>Habilitar aba espectador</Portuguese>
+				<Russian>Включить вкладку наблюдателя</Russian>
+				<Spanish>Habilitar pestaña de espectador</Spanish>
+				<Korean>관람자 탭 활성화</Korean>
+				<Japanese>観戦タブを有効にする</Japanese>
+				<Chinesesimp>启用观众标签</Chinesesimp>
+				<Chinese>啟用觀眾選項卡</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle_spectator2">
+				<Original>Shows the nearest unit.</Original>
+				<English>Shows the nearest unit.</English>
+				<Czech>Zobrazuje nejbližší jednotku.</Czech>
+				<French>Affiche l'unité la plus proche.</French>
+				<German>Zeigt die nächstgelegene Einheit an.</German>
+				<Italian>Mostra l'unità più vicina.</Italian>
+				<Polish>Pokazuje najbliższą jednostkę.</Polish>
+				<Portuguese>Mostra a unidade mais próxima.</Portuguese>
+				<Russian>Показывает ближайший объект.</Russian>
+				<Spanish>Muestra la unidad más cercana.</Spanish>
+				<Korean>가장 가까운 단위를 보여줍니다.</Korean>
+				<Japanese>最も近いユニットを表示します。</Japanese>
+				<Chinesesimp>显示最近的单位。</Chinesesimp>
+				<Chinese>顯示最近的單位。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle_map1">
+				<Original>Enable Map Tab</Original>
+				<English>Enable Map Tab</English>
+				<Czech>Povolit kartu mapy</Czech>
+				<French>Activer l'onglet Carte</French>
+				<German>Registerkarte „Karte aktivieren“</German>
+				<Italian>Abilita la scheda mappa</Italian>
+				<Polish>Włącz kartę mapy</Polish>
+				<Portuguese>Habilitar aba de mapa</Portuguese>
+				<Russian>Включить вкладку карты</Russian>
+				<Spanish>Habilitar pestaña de mapa</Spanish>
+				<Korean>지도 탭 활성화</Korean>
+				<Japanese>マップタブを有効にする</Japanese>
+				<Chinesesimp>启用地图选项卡</Chinesesimp>
+				<Chinese>啟用地圖選項卡</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle_map2">
+				<Original>Shows a mini map.</Original>
+				<English>Shows a mini map.</English>
+				<Czech>Zobrazuje mini mapu.</Czech>
+				<French>Affiche une mini carte.</French>
+				<German>Zeigt eine Minikarte.</German>
+				<Italian>Mostra una minimappa.</Italian>
+				<Polish>Pokazuje mini mapę.</Polish>
+				<Portuguese>Mostra um mini mapa.</Portuguese>
+				<Russian>Показывает мини-карту.</Russian>
+				<Spanish>Muestra un minimapa.</Spanish>
+				<Korean>미니맵을 보여줍니다.</Korean>
+				<Japanese>ミニマップを表示します。</Japanese>
+				<Chinesesimp>显示小地图。</Chinesesimp>
+				<Chinese>顯示迷你地圖。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_slider_distance1">
+				<Original>Maximum Spectator Distance</Original>
+				<English>Maximum Spectator Distance</English>
+				<Czech>Maximální vzdálenost pozorovatele</Czech>
+				<French>Distance maximale de l'observateur</French>
+				<German>Maximale Zuschauerdistanz</German>
+				<Italian>Distanza massima dell'osservatore</Italian>
+				<Polish>Maksymalna odległość obserwatora</Polish>
+				<Portuguese>Distância máxima do observador</Portuguese>
+				<Russian>Максимальное расстояние наблюдателя</Russian>
+				<Spanish>Distancia máxima del observador</Spanish>
+				<Korean>최대 관찰 거리</Korean>
+				<Japanese>観察者の最大距離</Japanese>
+				<Chinesesimp>最大观察者距离</Chinesesimp>
+				<Chinese>最大觀察距離</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_slider_distance2">
+				<Original>The maximum distance a player can spectate the nearest unit.</Original>
+				<English>The maximum distance a player can spectate the nearest unit.</English>
+				<Czech>Maximální vzdálenost, na kterou může hráč spatřit nejbližší jednotku.</Czech>
+				<French>La distance maximale à laquelle un joueur peut observer l'unité la plus proche.</French>
+				<German>Der maximale Abstand, den ein Spieler der nächstgelegenen Einheit zuschauen kann.</German>
+				<Italian>La distanza massima alla quale un giocatore può osservare l'unità più vicina.</Italian>
+				<Polish>Maksymalna odległość, z jakiej gracz może obserwować najbliższą jednostkę.</Polish>
+				<Portuguese>A distância máxima que um jogador pode observar a unidade mais próxima.</Portuguese>
+				<Russian>Максимальное расстояние, на котором игрок может наблюдать за ближайшим отрядом.</Russian>
+				<Spanish>La distancia máxima a la que un jugador puede observar la unidad más cercana.</Spanish>
+				<Korean>플레이어가 가장 가까운 유닛을 관전할 수 있는 최대 거리입니다.</Korean>
+				<Japanese>プレイヤーが最も近いユニットを観戦できる最大距離。</Japanese>
+				<Chinesesimp>玩家可以观察最近单位的最大距离。</Chinesesimp>
+				<Chinese>玩家可以觀看最近單位的最大距離。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_HR1">
+				<Original>Enable HR In Medical Tab</Original>
+				<English>Enable HR In Medical Tab</English>
+				<Czech>Povolte HR na kartě lékařské</Czech>
+				<French>Activer les RH dans l'onglet médical</French>
+				<German>Aktivieren Sie HR im Reiter „Medizin“</German>
+				<Italian>Abilitare le risorse umane nella scheda medica</Italian>
+				<Polish>Włącz HR w zakładce medycznej</Polish>
+				<Portuguese>Habilitar RH na aba médica</Portuguese>
+				<Russian>Включить HR на медицинской вкладке</Russian>
+				<Spanish>Habilitar HR en la pestaña médica</Spanish>
+				<Korean>의료 탭에서 HR 활성화</Korean>
+				<Japanese>医療タブでHRを有効にする</Japanese>
+				<Chinesesimp>在医疗标签中启用 HR</Chinesesimp>
+				<Chinese>在醫療標籤中啟用 HR</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_HR2">
+				<Original>Shows the heart rate in the medical tab.</Original>
+				<English>Shows the heart rate in the medical tab.</English>
+				<Czech>Zobrazuje tepová frekvence na kartě Lékařské.</Czech>
+				<French>Affiche la fréquence cardiaque dans l'onglet médical.</French>
+				<German>Zeigt die Herzfrequenz im medizinischen Reiter an.</German>
+				<Italian>Mostra la frequenza cardiaca nella scheda medica.</Italian>
+				<Polish>Pokazuje tętno w zakładce medycznej.</Polish>
+				<Portuguese>Mostra a frequência cardíaca na aba médica.</Portuguese>
+				<Russian>Показывает частоту сердечных сокращений на медицинской вкладке.</Russian>
+				<Spanish>Muestra la frecuencia cardíaca en la pestaña médica.</Spanish>
+				<Korean>의료 탭에 심박수가 표시됩니다.</Korean>
+				<Japanese>医療タブに心拍数を表示します。</Japanese>
+				<Chinesesimp>在医疗标签中显示心率。</Chinesesimp>
+				<Chinese>在醫療標籤中顯示心率。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_BP1">
+				<Original>Enable BP In Medical Tab</Original>
+				<English>Enable BP In Medical Tab</English>
+				<Czech>Povolit BP na kartě lékařské</Czech>
+				<French>Activer BP dans l'onglet médical</French>
+				<German>Aktivieren Sie BP auf der Registerkarte „Medizin“.</German>
+				<Italian>Abilita BP nella scheda medica</Italian>
+				<Polish>Włącz BP w zakładce medycznej</Polish>
+				<Portuguese>Habilitar BP na aba médica</Portuguese>
+				<Russian>Включить АД на медицинской вкладке</Russian>
+				<Spanish>Habilitar BP en la pestaña médica</Spanish>
+				<Korean>의료 탭에서 BP 활성화</Korean>
+				<Japanese>医療タブで血圧を有効にする</Japanese>
+				<Chinesesimp>在“医疗”选项卡上启用 BP</Chinesesimp>
+				<Chinese>在醫療標籤上啟用 BP</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_BP2">
+				<Original>Shows the blood pressure in the medical tab.</Original>
+				<English>Shows the blood pressure in the medical tab.</English>
+				<Czech>Zobrazuje krevní tlak na kartě Lékařské.</Czech>
+				<French>Affiche la pression artérielle dans l'onglet médical.</French>
+				<German>Zeigt den Blutdruck im medizinischen Reiter an.</German>
+				<Italian>Mostra la pressione sanguigna nella scheda medica.</Italian>
+				<Polish>Pokazuje ciśnienie krwi w zakładce medycznej.</Polish>
+				<Portuguese>Mostra a pressão arterial na aba médica.</Portuguese>
+				<Russian>Показывает артериальное давление на медицинской вкладке.</Russian>
+				<Spanish>Muestra la presión arterial en la pestaña médica.</Spanish>
+				<Korean>의료 탭에 혈압이 표시됩니다.</Korean>
+				<Japanese>医療タブに血圧を表示します。</Japanese>
+				<Chinesesimp>在医疗标签中显示血压。</Chinesesimp>
+				<Chinese>在醫療標籤中顯示血壓。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_RR1">
+				<Original>Enable RR In Medical Tab</Original>
+				<English>Enable RR In Medical Tab</English>
+				<Czech>Povolte RR na kartě lékařské</Czech>
+				<French>Activer RR dans l'onglet médical</French>
+				<German>Aktivieren Sie RR auf der Registerkarte „Medizin“.</German>
+				<Italian>Abilita RR nella pagina medica</Italian>
+				<Polish>Włącz RR w zakładce medycznej</Polish>
+				<Portuguese>Habilitar RR na aba médica</Portuguese>
+				<Russian>Включить RR на медицинской вкладке</Russian>
+				<Spanish>Habilitar RR en la pestaña médica</Spanish>
+				<Korean>의료 탭에서 RR 활성화</Korean>
+				<Japanese>医療タブでRRを有効にする</Japanese>
+				<Chinesesimp>在医疗选项卡中启用 RR</Chinesesimp>
+				<Chinese>在醫療標籤中啟用 RR</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_RR2">
+				<Original>Shows the respiratory rate in the medical tab.</Original>
+				<English>Shows the respiratory rate in the medical tab.</English>
+				<Czech>Zobrazuje dechovou frekvenci na kartě Lékařské.</Czech>
+				<French>Affiche la fréquence respiratoire dans l'onglet médical.</French>
+				<German>Zeigt die Atemfrequenz im medizinischen Reiter an.</German>
+				<Italian>Mostra la frequenza respiratoria nella scheda medica.</Italian>
+				<Polish>Pokazuje częstość oddechów w zakładce medycznej.</Polish>
+				<Portuguese>Mostra a frequência respiratória na aba médica.</Portuguese>
+				<Russian>Показывает частоту дыхания на медицинской вкладке.</Russian>
+				<Spanish>Muestra la frecuencia respiratoria en la pestaña médica.</Spanish>
+				<Korean>의료 탭에서 호흡수를 표시합니다.</Korean>
+				<Japanese>医療タブに呼吸数を表示します。</Japanese>
+				<Chinesesimp>在医疗选项卡中显示呼吸频率。</Chinesesimp>
+				<Chinese>在醫療標籤中顯示呼吸頻率。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_SPO21">
+				<Original>Enable SPO2 In Medical Tab</Original>
+				<English>Enable SPO2 In Medical Tab</English>
+				<Czech>Povolte SPO2 na kartě Lékařské</Czech>
+				<French>Activer SPO2 dans l’onglet médical</French>
+				<German>Aktivieren Sie SPO2 im medizinischen Reiter</German>
+				<Italian>Abilitare SPO2 nella scheda medica</Italian>
+				<Polish>Włącz SPO2 w zakładce medycznej</Polish>
+				<Portuguese>Habilitar SPO2 na aba médica</Portuguese>
+				<Russian>Включить SPO2 на медицинской вкладке</Russian>
+				<Spanish>Habilitar SPO2 en la pestaña médica</Spanish>
+				<Korean>의료 탭에서 SPO2 활성화</Korean>
+				<Japanese>医療タブでSPO2を有効にする</Japanese>
+				<Chinesesimp>在“医疗”选项卡中启用 SPO2</Chinesesimp>
+				<Chinese>在「醫療」標籤中啟用 SPO2</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_SPO22">
+				<Original>Shows SPO2 (Blood Oxygen) in the medical tab.</Original>
+				<English>Shows SPO2 (Blood Oxygen) in the medical tab.</English>
+				<Czech>Zobrazuje SPO2 (krevní kyslík) na kartě zdraví</Czech>
+				<French>Affiche la SPO2 (oxygène dans le sang) dans l'onglet médical.</French>
+				<German>Zeigt SPO2 (Blutsauerstoff) im medizinischen Tab an.</German>
+				<Italian>Mostra SPO2 (ossigeno nel sangue) nella scheda medica.</Italian>
+				<Polish>Pokazuje SpO2 (tlen we krwi) w zakładce medycznej.</Polish>
+				<Portuguese>Mostra SPO2 (Oxigênio no Sangue) na aba médica.</Portuguese>
+				<Russian>Показывает SPO2 (кислород в крови) на медицинской вкладке.</Russian>
+				<Spanish>Muestra SPO2 (oxígeno en sangre) en la pestaña médica.</Spanish>
+				<Korean>의료 탭에 SPO2(혈중 산소)가 표시됩니다.</Korean>
+				<Japanese>医療タブに SPO2 (血中酸素) を表示します。</Japanese>
+				<Chinesesimp>在医疗选项卡中显示 SPO2（血氧）。</Chinesesimp>
+				<Chinese>在醫療標籤中顯示 SPO2（血氧）。</Chinese>
+			<Key ID="STR_spc_menu_toggle2_SPO21">
+				<Original>Enable SPO2 In Medical Tab</Original>
+				<English>Enable SPO2 In Medical Tab</English>
+				<Czech>Povolte SPO2 na kartě Lékařské</Czech>
+				<French>Activer SPO2 dans l’onglet médical</French>
+				<German>Aktivieren Sie SPO2 im medizinischen Reiter</German>
+				<Italian>Abilitare SPO2 nella scheda medica</Italian>
+				<Polish>Włącz SPO2 w zakładce medycznej</Polish>
+				<Portuguese>Habilitar SPO2 na aba médica</Portuguese>
+				<Russian>Включить SPO2 на медицинской вкладке</Russian>
+				<Spanish>Habilitar SPO2 en la pestaña médica</Spanish>
+				<Korean>의료 탭에서 SPO2 활성화</Korean>
+				<Japanese>医療タブでSPO2を有効にする</Japanese>
+				<Chinesesimp>在“医疗”选项卡中启用 SPO2</Chinesesimp>
+				<Chinese>在「醫療」標籤中啟用 SPO2</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_SPO22">
+				<Original>Shows SPO2 (Blood Oxygen) in the medical tab.</Original>
+				<English>Shows SPO2 (Blood Oxygen) in the medical tab.</English>
+				<Czech>Zobrazuje SPO2 (krevní kyslík) na kartě zdraví</Czech>
+				<French>Affiche la SPO2 (oxygène dans le sang) dans l'onglet médical.</French>
+				<German>Zeigt SPO2 (Blutsauerstoff) im medizinischen Tab an.</German>
+				<Italian>Mostra SPO2 (ossigeno nel sangue) nella scheda medica.</Italian>
+				<Polish>Pokazuje SpO2 (tlen we krwi) w zakładce medycznej.</Polish>
+				<Portuguese>Mostra SPO2 (Oxigênio no Sangue) na aba médica.</Portuguese>
+				<Russian>Показывает SPO2 (кислород в крови) на медицинской вкладке.</Russian>
+				<Spanish>Muestra SPO2 (oxígeno en sangre) en la pestaña médica.</Spanish>
+				<Korean>의료 탭에 SPO2(혈중 산소)가 표시됩니다.</Korean>
+				<Japanese>医療タブに SPO2 (血中酸素) を表示します。</Japanese>
+				<Chinesesimp>在医疗选项卡中显示 SPO2（血氧）。</Chinesesimp>
+				<Chinese>在醫療標籤中顯示 SPO2（血氧）。</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_Timer1">
+				<Original>Enable death timer In Medical Tab</Original>
+				<English>Enable death timer In Medical Tab</English>
+				<Czech>Povolit časovač smrti na kartě Lékařské</Czech>
+				<French>Activer le minuteur de décès dans l'onglet Médical</French>
+				<German>Aktivieren Sie den Todestimer auf der Registerkarte „Medizin“.</German>
+				<Italian>Abilita il timer della morte nella scheda Medica</Italian>
+				<Polish>Włącz licznik śmierci w zakładce Medycyna</Polish>
+				<Portuguese>Habilitar temporizador de morte na guia Médica</Portuguese>
+				<Russian>Включить таймер смерти на вкладке «Медицинские»</Russian>
+				<Spanish>Habilite el temporizador de muerte en la pestaña Médico</Spanish>
+				<Korean>의료 탭에서 사망 타이머 활성화</Korean>
+				<Japanese>「医療」タブで死亡タイマーを有効にする</Japanese>
+				<Chinesesimp>在“医疗”选项卡中启用死亡计时器</Chinesesimp>
+				<Chinese>在「醫療」標籤中啟用死亡計時器</Chinese>
+			</Key>
+			<Key ID="STR_spc_menu_toggle2_Timer2">
+				<Original>Shows the time left before death when in cardiac arrest.</Original>
+				<English>Shows the time left before death when in cardiac arrest.</English>
+				<Czech>Ukazuje čas zbývající do smrti při zástavě srdce.</Czech>
+				<French>Affiche le temps restant avant la mort en cas d'arrêt cardiaque.</French>
+				<German>Zeigt die verbleibende Zeit bis zum Tod bei Herzstillstand an.</German>
+				<Italian>Mostra il tempo rimasto prima della morte in caso di arresto cardiaco.</Italian>
+				<Polish>Pokazuje czas pozostały do ​​śmierci w przypadku zatrzymania krążenia.</Polish>
+				<Portuguese>Mostra o tempo restante antes da morte em caso de parada cardíaca.</Portuguese>
+				<Russian>Показывает время, оставшееся до смерти при остановке сердца.</Russian>
+				<Spanish>Muestra el tiempo que queda antes de la muerte en caso de paro cardíaco.</Spanish>
+				<Korean>심정지 상태에서 사망까지 남은 시간을 표시합니다.</Korean>
+				<Japanese>心停止時の死亡までの残り時間を表示します。</Japanese>
+				<Chinesesimp>显示心脏骤停时死亡前的剩余时间。</Chinesesimp>
+				<Chinese>顯示心臟驟停時死亡前的剩餘時間。</Chinese>
+			</Key>
+		</Container>
+	</Package>
+</Project>
